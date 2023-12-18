@@ -21,7 +21,7 @@ curl -SSL https://get.docker.com/ | sh
 checking the status of the docker
 service docker status
 
-getting to user mode
+
 usermod -aG docker u
 
 checking the version of the docker	
